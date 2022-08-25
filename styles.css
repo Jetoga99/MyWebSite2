@@ -1,0 +1,114 @@
+
+.container { 
+	background-color:rgba(0, 0, 0, 1);
+	width:1440px;
+	height:1024px;
+	position:absolute;
+	flex-wrap: wrap;
+}
+
+.letrasjt { 
+	width:88px;
+	height:113px;
+	position:absolute;
+	left:91px;
+	top:18px;
+}
+.letraj { 
+	color:rgba(255, 255, 255, 1);
+	width:88px;
+	height:54;
+	position:absolute;
+	left:0px;
+	top:0px;
+	font-family:Poppins;
+	text-align:left;
+	font-size:70px;
+	letter-spacing:0;
+}
+.letrat { 
+	color:rgba(255, 255, 255, 1);
+	width:48px;
+	height:80px;
+	position:absolute;
+	left:31px;
+	top:33px;
+	font-family:Poppins;
+	text-align:left;
+	font-size:70px;
+	letter-spacing:0;
+}
+.posmenu{ 
+	width:660px;
+	height:37px;
+	position:absolute;
+	left:223px;
+	top:63px;
+}
+.posporta { 
+	width:190px;
+	height:37px;
+	position:absolute;
+	left:0px;
+	top:0px;
+}
+.menu { 
+	color:rgba(255, 255, 255, 1);
+	width:190px;
+	height:37px;
+	position:absolute;
+	left:0px;
+	top:0px;
+	font-family:Roboto;
+	text-align:center;
+	font-size:30px;
+	letter-spacing:0;
+}
+.possobre{ 
+	width:157px;
+	height:37px;
+	position:absolute;
+	left:265px;
+	top:0px;
+}
+
+.posconta { 
+	width:163px;
+	height:37px;
+	position:absolute;
+	left:497px;
+	top:0px;
+}
+
+.letrasenes { 
+	color:rgba(255, 255, 255, 1);
+	width:82px;
+	height:38px;
+	position:absolute;
+	left:1279px;
+	top:67px;
+	font-family:Roboto;
+	text-align:center;
+	font-size:20px;
+	letter-spacing:0;
+}
+.textonom { 
+	color:rgba(255, 255, 255, 1);
+	width:748px;
+	height:126px;
+	position:absolute;
+	left:107px;
+	top:462px;
+	text-align:left;
+	font-size:50px;
+	letter-spacing:0;
+}
+.foto { 
+	background-color:rgba(217, 217, 217, 1);
+	width:378px;
+	height:378px;
+	position:absolute;
+	left:970px;
+	top:323px;
+	border-radius:189px;
+}
